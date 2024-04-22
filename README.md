@@ -9,7 +9,7 @@ For this assignment, you are expected to do the following:
 
 Submit a pull request containing:
 
-* Document that contains:
+* Document that contains: https://github.com/marinarosenwald/CSS545HW2/blob/Dev/CSS%20545%20HW2.pdf 
 
   * (5 Points) Various approaches to storage management on your platform of choice
 
