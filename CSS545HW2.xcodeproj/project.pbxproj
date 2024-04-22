@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F897B9C2BD5D46E00124366 /* movie_noise.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9F897B9A2BD5D46E00124366 /* movie_noise.mp3 */; };
 		9F90120B2BD261B100E0E921 /* CSS545HW2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F90120A2BD261B100E0E921 /* CSS545HW2App.swift */; };
 		9F90120D2BD261B100E0E921 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F90120C2BD261B100E0E921 /* ContentView.swift */; };
 		9F90120F2BD261B200E0E921 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F90120E2BD261B200E0E921 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F897B9A2BD5D46E00124366 /* movie_noise.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = movie_noise.mp3; sourceTree = "<group>"; };
 		9F9012072BD261B100E0E921 /* CSS545HW2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CSS545HW2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F90120A2BD261B100E0E921 /* CSS545HW2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSS545HW2App.swift; sourceTree = "<group>"; };
 		9F90120C2BD261B100E0E921 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 		9F9012092BD261B100E0E921 /* CSS545HW2 */ = {
 			isa = PBXGroup;
 			children = (
+				9F897B9A2BD5D46E00124366 /* movie_noise.mp3 */,
 				9F90120A2BD261B100E0E921 /* CSS545HW2App.swift */,
 				9F90120C2BD261B100E0E921 /* ContentView.swift */,
 				9F90120E2BD261B200E0E921 /* Assets.xcassets */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F897B9C2BD5D46E00124366 /* movie_noise.mp3 in Resources */,
 				9F9012122BD261B200E0E921 /* Preview Assets.xcassets in Resources */,
 				9F90120F2BD261B200E0E921 /* Assets.xcassets in Resources */,
 			);
@@ -427,6 +431,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -455,6 +460,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

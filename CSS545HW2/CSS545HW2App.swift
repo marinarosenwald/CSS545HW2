@@ -12,6 +12,7 @@ struct CSS545HW2App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+
         }
     }
 }
